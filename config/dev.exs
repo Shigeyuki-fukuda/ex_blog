@@ -71,5 +71,5 @@ config :ex_blog, ExBlog.Repo,
   username: "postgres",
   password: "postgres",
   database: "ex_blog_dev",
-  hostname: "localhost",
+  hostname: "db",
   pool_size: 10
